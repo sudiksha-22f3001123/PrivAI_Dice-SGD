@@ -1,0 +1,14 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Differential Privacy Library
+opacus>=1.4.0
+
+# Data Manipulation & Visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Jupyter / Colab Environment
+jupyter>=1.0.0
